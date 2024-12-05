@@ -1,4 +1,4 @@
-# Average C#
+# Average C
 
 Le but de ce TP est de faire un petit programme pour calculer une moyenne.
 
